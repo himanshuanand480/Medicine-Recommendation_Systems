@@ -1,0 +1,42 @@
+Disease,Cost & insurance coverage,Availability,Patient preferences,Ease of use
+Fungal infection,"Generally low cost, often covered by insurance.",Widely available in pharmacies.,Topical treatments preferred for mild cases.,Generally easy to use.
+Allergy,"Varies depending on severity and treatment, often covered.",Widely available in pharmacies.,Preference for non-drowsy antihistamines.,Generally easy to use.
+GERD,"Medication costs can vary, usually covered.",Widely available in pharmacies.,Preference for once-daily medication.,Generally easy to use.
+Chronic cholestasis,"Treatment can be expensive, coverage varies.",Specialized treatments may require larger pharmacies or hospitals.,May require dietary restrictions and lifestyle changes.,May require complex treatment regimens.
+Drug Reaction,"Treatment costs vary, usually covered.",Widely available in pharmacies.,Preference for oral medications over injections.,Generally easy to use.
+Peptic ulcer disease,"Medication costs vary, often covered.",Widely available in pharmacies.,Preference for medication over surgery.,Generally easy to use.
+AIDS,"Treatment is expensive, often government-assisted.",Available through specialized clinics.,Preference for less frequent dosing.,May involve complex regimens and side effects.
+Diabetes,"Ongoing costs for medication and monitoring, usually covered.",Widely available in pharmacies.,Preference for oral medications over insulin.,Requires regular monitoring and adherence.
+Gastroenteritis,Treatment is usually low cost and covered.,Widely available in pharmacies.,Preference for oral rehydration solutions.,Generally easy to use.
+Bronchial Asthma,"Medication costs vary, usually covered.",Widely available in pharmacies.,Preference for inhalers over oral medication.,Requires proper inhaler technique.
+Hypertension,"Ongoing medication costs, usually covered.",Widely available in pharmacies.,Preference for single-pill combinations.,Generally easy to use.
+Migraine,"Medication costs vary, often covered.",Widely available in pharmacies.,Preference for non-narcotic pain relievers.,Generally easy to use.
+Cervical spondylosis,"Treatment costs vary depending on therapy, often covered.",Widely available in pharmacies.,Preference for physical therapy over surgery.,May require regular therapy sessions.
+Paralysis (brain hemorrhage),"Treatment and rehabilitation are expensive, coverage varies.",Requires hospital and rehabilitation facilities.,Requires extensive rehabilitation.,Requires intensive care and rehabilitation.
+Jaundice,"Treatment costs vary, often covered.",Available in most pharmacies.,May require dietary changes.,Generally easy to use.
+Malaria,"Treatment costs vary depending on medication, often covered.",Available in most pharmacies.,Preference for oral medication.,Generally easy to use.
+Chicken pox,Treatment is generally low cost and covered.,Widely available.,Preference for topical treatments for itching.,Generally easy to use.
+Dengue,"Treatment costs vary depending on severity, often covered.",Available in most pharmacies.,May require fluid intake preferences.,Generally easy to use.
+Typhoid,"Antibiotics are low cost, often covered.",Widely available in pharmacies.,Preference for oral antibiotics.,Generally easy to use.
+hepatitis A,"Treatment costs vary, often covered.",Available in most pharmacies.,May require dietary changes.,Generally easy to use.
+Hepatitis B,"Treatment is expensive, coverage varies.",Available through specialized clinics.,Preference for less frequent injections.,May require injections.
+Hepatitis C,"Treatment is expensive, coverage varies.",Available through specialized clinics.,Preference for oral medications.,Generally easy to use.
+Hepatitis D,"Treatment is expensive, coverage varies.",Available through specialized clinics.,Preference for less frequent injections.,May require injections.
+Hepatitis E,"Treatment costs vary, coverage varies.",Available through specialized clinics.,May require dietary changes.,Generally easy to use.
+Alcoholic hepatitis,"Treatment costs vary, coverage varies.",Available in most pharmacies.,Preference for oral medication.,Generally easy to use.
+Tuberculosis,"Treatment costs vary, often government-assisted.",Available through specialized clinics and government programs.,Preference for less frequent dosing.,Requires strict adherence to medication.
+Common Cold,Treatment is low cost and often over-the-counter.,Widely available in pharmacies and stores.,Preference for over-the-counter remedies.,Generally easy to use.
+Pneumonia,"Treatment costs vary depending on severity, often covered.",Available in most pharmacies.,Preference for oral antibiotics.,Generally easy to use.
+Dimorphic hemmorhoids(piles),"Treatment costs vary, often covered.",Widely available in pharmacies.,Preference for topical treatments.,Generally easy to use.
+Heart attack,"Treatment and rehabilitation are expensive, coverage varies.",Requires hospital facilities.,Requires lifestyle changes and possibly surgery.,Requires significant lifestyle changes.
+Varicose veins,"Treatment costs vary, often covered.",Widely available in pharmacies.,Preference for compression stockings.,Generally easy to use.
+Hypothyroidism,"Ongoing medication costs, usually covered.",Widely available in pharmacies.,Preference for oral medication.,Requires regular monitoring.
+Hyperthyroidism,"Ongoing medication costs, usually covered.",Widely available in pharmacies.,Preference for oral medication.,Requires regular monitoring.
+Hypoglycemia,Treatment is low cost and often involves diet.,Widely available.,Preference for dietary changes.,Generally easy to use.
+Osteoarthristis,"Treatment costs vary depending on therapy, often covered.",Widely available in pharmacies and therapy centers.,Preference for physical therapy and pain management.,May require regular therapy sessions.
+Arthritis,"Treatment costs vary depending on therapy, often covered.",Widely available in pharmacies and therapy centers.,Preference for physical therapy and pain management.,May require regular therapy sessions.
+(vertigo) Paroymsal Positional Vertigo,"Treatment costs vary depending on therapy, often covered.",Requires specialized therapy.,Preference for physical therapy.,Requires specialized therapy.
+Acne,"Treatment costs vary, often covered.",Widely available in pharmacies.,Preference for topical treatments.,Generally easy to use.
+Urinary tract infection,"Antibiotics are low cost, often covered.",Widely available in pharmacies.,Preference for oral antibiotics.,Generally easy to use.
+Psoriasis,"Treatment costs vary, coverage varies.",Specialized treatments may require larger pharmacies.,Preference for topical treatments.,May require consistent application of treatments.
+Impetigo,"Antibiotics are low cost, often covered.",Widely available in pharmacies.,Preference for topical antibiotics.,Generally easy to use.
