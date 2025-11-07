@@ -1,6 +1,8 @@
 # 💊 AI Health Advisor — End-to-End Machine Learning Project
+![App Screenshot](https://github.com/himanshuanand480/Medicine-Recommendation_Systems/blob/main/assets/app_ui.png?raw=true)
 
 This project predicts diseases based on user-input symptoms and recommends medicines, diet, precautions, and workout plans using machine learning.
+
 
 ---
 
